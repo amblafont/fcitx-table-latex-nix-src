@@ -80,6 +80,7 @@ Length=20
 \ell ℓ
 \mathbb ℕ
 \wp ℘
+\bb ℙ
 \mathbb ℙ
 \mathbb ℚ
 \Re ℜ
