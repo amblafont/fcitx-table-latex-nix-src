@@ -1,4 +1,4 @@
-KeyCode=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890\_[]{}|
+KeyCode=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890/\_[]{}|<>:=-~.^
 Prompt=
 ConstructPhrase=
 Length=20
@@ -11,10 +11,8 @@ Length=20
 \rceil ⌉
 \lfloor ⌊
 \rfloor ⌋
-\left_white_square_bracket ⟦
 \llbracket ⟦
 [| ⟦
-\right_white_square_bracket ⟧
 \rrbracket ⟧
 |] ⟧
 \ulcorner ⌜
@@ -144,7 +142,8 @@ Length=20
 \Equiv ⇔
 \Leftrightarrow ⇔
 <=> ⇔
-<==>\\Longleftrightarrow ⟺
+\\Longleftrightarrow ⟺
+<==> ⟺
 \longleftrightarrow ⟷
 <--> ⟷
 \equiv ↔
